@@ -1,2 +1,2 @@
 # ShopCraft
-shop manage, buy and other studd related to improving hopping experience
+shop manage, buy and other studd related to improving shopping experience
